@@ -1,13 +1,48 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # TextUtils
-TextUtils a powerful yet simple text manipulation tool designed to make your text-processing tasks faster and more efficient.
->>>>>>> 67ebf224769665a15a6a883329bf0dd3c84625ee
+
+## 🚀 Live Demo
+Check out the live version of **TextUtils** here:
+[Live Link](https://gleeful-begonia-3ea301.netlify.app/)
+
+## 📌 About
+TextUtils is a simple web-based tool that provides various text manipulation utilities. It helps users modify and analyze text effortlessly with features such as case conversion, word counting, and text formatting.
+
+## ✨ Features
+- Convert text to **Uppercase** and **Lowercase**
+- Remove **extra spaces**
+- Count **words and characters**
+- Copy text with a single click
+- Dark mode for a better user experience
+- User-friendly interface
+
+## 🛠️ Technologies Used
+- React js
+- React router
+- Bootstrap
+
+## 📥 Installation
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/YOUR_GITHUB_USERNAME/TextUtils.git
+   ```
+
+2. Navigate to the project directory:
+   ```sh
+   cd TextUtils
+   ```
+
+3. Open `index.html` in your browser:
+   ```sh
+   open index.html
+   ```
+
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests. Contributions are always welcome!
+
+
+
+If you like this project, don't forget to ⭐ the repository!
+
