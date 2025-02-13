@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 Check out the live version of **TextUtils** here:
-[Live Link](https://gleeful-begonia-3ea301.netlify.app/)
+[Live Link](https://text-utils-eight-hazel.vercel.app/)
 
 ## 📌 About
 TextUtils is a simple web-based tool that provides various text manipulation utilities. It helps users modify and analyze text effortlessly with features such as case conversion, word counting, and text formatting.
